@@ -11,3 +11,9 @@ making sketch of a picture web application
 
 background remover application
 ![image](https://github.com/user-attachments/assets/c968af39-8105-4879-8f79-3046032790d0)
+
+
+
+
+
+great applauds to [abhishek sharma](https://github.com/sharmaji27) for providing the material to learn Flask in easy way

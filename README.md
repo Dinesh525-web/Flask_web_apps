@@ -1,4 +1,4 @@
-<span style="font-size: 24px;">**Web apps using flask**</span>
+<span style="font-size: 45px;">**Web apps using flask**</span>
 
 
 __web application to count words and chars__

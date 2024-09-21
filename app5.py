@@ -3,7 +3,7 @@ import requests
 from fpdf import FPDF
 from flask import Flask, request, render_template
 
-API_KEY = "2843602aaamshcc952da8c69a7c4p1e27dfjsn73f820215f5f"  # Ensure this is valid
+API_KEY = "enter your API key"  # Ensure this is valid
 API_HOST = "weatherapi-com.p.rapidapi.com"
 API_URL = "https://weatherapi-com.p.rapidapi.com/current.json"
 
